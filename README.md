@@ -1,3 +1,3 @@
-# IT-DOP-Team3
+# DOP-Team3-GitPrac_M2
 
-#Week2 Git Practice
+Week2 Git Practice
