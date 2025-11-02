@@ -1,3 +1,5 @@
 Hello World, though an anticlimatic entrance may seem rather mundane to the average user.
 
 Hello World, kaiyu, this is now edited using my branch
+
+This is hello from Thomas Ng. I am adding a new line of code here for direct branch push.
